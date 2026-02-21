@@ -1,15 +1,14 @@
 # Denis — Data & AI
 
-Making data talk. Analytics, AI agents, and building products.
+Making data talk. Data analytics, AI agents, vibecoding.
 
 ## What I do
 
-Analytics infrastructure, AI agents, and Streamlit apps.
-Leading a data team, integrating AI into real workflows, and helping business talk to data.
+Building analytics infrastructure and integrating AI agents into team workflows. Helping business talk to data.
 
 ## Currently
 
-Deep into AI agents and vibecoding — building tools with Claude Code and LLMs in production.
+Deep into vibecoding — building tools with Claude Code and shipping AI agents into real workflows.
 
 ## Background
 
