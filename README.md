@@ -1,28 +1,12 @@
-# Denis — AI infrastructure on demand
+[![EN](https://img.shields.io/badge/EN-1f6feb)](README.md) [![RU](https://img.shields.io/badge/RU-6e7681)](README.ru.md)
 
-Dashboards with AI chat over your data. Telegram bots that run themselves. Transcript, document, and routine processing. Research on demand.
+# Denis
 
-## What I do
+## What I'm building & sharing
 
-I build AI infrastructure tailored to a specific task. Four modalities:
+- **[harness-audit](https://github.com/denenis-lab/harness-audit)** — point your agent at your Claude Code setup; it checks it against 9 disciplines and shows where you cut corners.
+- **[my-claude-skills](https://github.com/denenis-lab/my-claude-skills)** — reusable skills for Claude Code.
 
-- **Dashboards with AI chat** — ask questions in natural language, get answers from your numbers
-- **Telegram bots** — run on their own, handle routine, react to events
-- **Data processing pipelines** — transcripts, documents, repetitive workflows
-- **Research / dossier** — structured digging into a topic, person, or market
+## The bet
 
-Stack: Python + Claude API + automation. 8 years in data (SQL/Python/Streamlit), the last year — agentic AI in production. Working in EN/RU.
-
-## Selected work
-
-- [dubai-invest-dashboard](https://github.com/denenis-lab/dubai-invest-dashboard) — Streamlit dashboard with AI chat over Dubai real-estate data
-- [denenis-slides](https://github.com/denenis-lab/denenis-slides) — HTML/JS slide decks generated from prompts
-- [my-claude-skills](https://github.com/denenis-lab/my-claude-skills) — reusable skills for Claude Code
-
-## Background
-
-Big4 → Banking → International SaaS → TravelTech
-
-## Contact
-
-Open to remote collaboration. Reach out via GitHub.
+One person can now build what used to take a team. So I'm moving off other people's businesses onto my own products. Learning in public — sharing what works.
